@@ -18,7 +18,7 @@ if ($_SESSION['rol'] != Constants::FARA_ROL) {
 <!DOCTYPE html>
 <html lang="en">
     <header>
-        <h1>Va rugam sa va logati in platforma Flanco</h1>
+        <h1>Va rugam sa va logati in platforma de joburi</h1>
     </header>
     <form method="post">
         <table>

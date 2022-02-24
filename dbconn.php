@@ -7,7 +7,7 @@ class ConnectDB
 
     private $host = '127.0.0.1';
     private $user = 'root';
-    private $password = 'Flanco2021';
+    private $password = '2021';
     private $name = 'hr';
 
     private function __construct()

@@ -19,7 +19,7 @@ if ($_SESSION['rol'] == Constants::ROL_CANDIDAT) {
 <!DOCTYPE html>
 <html>
     <header>
-        <h1>Platforma de cariere Flanco</h1>
+        <h1>Platforma de cariere</h1>
     </header>
     <form method="post">
         <table>
